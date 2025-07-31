@@ -6,11 +6,8 @@
 
 ###
 
-
 <!-- Sobre mim -->
 <p align="left">🌍 São Paulo, Brasil<br>🎓 Estudante de Ciência da Computação<br>🎓Ténica em Desenvolvimento de Sistemas<br>✨ Criando projetos para aprimorar habilidades</p>
-
-
 
 <!-- Linguagens e Habilidades -->
 ## My Skills
@@ -18,16 +15,16 @@
 <div align="center">
    
   <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Pammps&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="135" alt="stats graph"  />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Pammps&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="165" alt="stats graph"  />
 </div>
 
- **Tecnologias Estudadas**
+ **Technologies Studied**
    <p>
    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,c,mysql" />
   </a>
 </p>
 
-  **Principais Ferramentas**
+  **Main Tools**
  <p>
    <img src="https://skillicons.dev/icons?i=figma,vscode,pycharm,git" />
   </a>
