@@ -7,7 +7,7 @@
 ###
 
 <!-- Sobre mim -->
-<p align="left">🌍 São Paulo, Brasil<br>🎓 Estudante de Ciência da Computação<br>🎓Ténica em Desenvolvimento de Sistemas<br> 👩‍💻 Possuo interesse em Dados e Inteligência Artificial<br> ✨ Criando projetos para aprimorar habilidades</p>
+<p align="left">🌍 São Paulo, Brasil<br>🎓 Estudante de Ciência da Computação<br>🎓Técnica em Desenvolvimento de Sistemas<br> 👩‍💻 Possuo interesse em Dados e Inteligência Artificial<br> ✨ Criando projetos para aprimorar habilidades</p>
 
 <!-- Linguagens e Habilidades -->
 ## My Skills
